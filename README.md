@@ -2,7 +2,7 @@
 ## Description.
 This web page introduces what client does and navigate from top menu to required article.
 ### Changes in HTML file
-On this file i have changed all `<div>` elements to the semantic elements for more readability such as `<article>, <aside>, <footer>, <main>, <header>`. I created one `<img>` tag, recourses were on css file which is not practical.
+On this file i have changed all `<div>` elements to the semantic elements for more readability such as `<article>, <aside>, <footer>, <main>, <header>`. I created one `<img>` tag, and added recourses were on css file which is not practical, and added `<alt>` property to `<img>`.
 ### Changes in stile.css file
 I moved background image to `index.html` file
 ```
