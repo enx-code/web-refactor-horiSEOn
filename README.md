@@ -13,3 +13,4 @@ which was not usual for me.
 - Semantic html tags.
 - I can put picture in css as background image.
 - Learning to write README.md markdown file.
+![Screenshot of a final refactoring](./assets/images/Screenshot%202023-10-24%20at%2022.02.17.png)
